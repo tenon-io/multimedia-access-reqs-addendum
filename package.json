@@ -1,0 +1,34 @@
+{
+  "name": "multimedia-access-addendum",
+  "version": "0.0.1",
+  "description": "Example language for defining acceptance criteria for media content",
+  "scripts": {
+    "postinstall": "cd www && npm i && grunt"
+  },
+  "author": {
+    "name": "Tenon",
+    "email": "talktous@tenon.io",
+    "url": "http://tenon.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tenon-io/multimedia-access-reqs-addendum.git"
+  },
+  "bugs": {
+    "url": "https://tenon1.atlassian.net/"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-jsonlint": "^1.1.0",
+    "grunt-travis-lint": "0.0.3",
+    "grunt-webdriver": "^2.0.2",
+    "load-grunt-tasks": "^3.5.2",
+  },
+  "engines": {
+    "node": ">=6.5.0"
+  }
+}
