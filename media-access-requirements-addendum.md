@@ -35,11 +35,11 @@ This addendum applies to all media purchased by Customer and delivered by Vendor
  * Captions must identify each speaker each time the speaker changes. This identification must be consistent throughout the content.
  * Captions must identify meaningful non-spoken sounds including background sound. Care should be taken to avoid making the captions for non-spoken content too verbose, concentrating on conciseness.
  * Captions must not block meaningful content on screen, e.g. Speaker's job title when displayed.
- * Captions length, while displayed, should:
-   * not use 3 or more lines.
-   * have a maximum length of 68% of the width of a 16:9 video and 90% of the width of a 4:3 video. The number of characters this represent depends on the font type and size used to display captions.
+ * Captions must not be displayed on more than 2 lines
+ * Captions length, while displayed, should have a maximum length of 68% of the width of a 16:9 video and 90% of the width of a 4:3 video. The number of characters this represent depends on the font type and size used to display captions.
  * Captions should use UPPER CASE for speech, and lower case for actions or identifying speakers, e.g. Man: I THINK THE DOG IS UPSET.
    * Captions should include actions or sound effects when they add meaning within parenthesis or brackets, e.g. (dog barking)
+ * When a sentence must be divided into two or more captions, it should break at a logical phrase rather than at a random point
 
 ### Subtitles
  * Subtitles are not required
@@ -50,10 +50,10 @@ This addendum applies to all media purchased by Customer and delivered by Vendor
    * Subtitles must not deviate from or editorialize the words used by speakers unless such changes are warranted to accurately reflect the intent of the speaker to ensure such word choice is accurate in context of the language that the subtitles are translated to.
    * Subtitles must be presented in high-contrast against the video content.
    * Subtitles must identify each speaker each time the speaker changes. This identification must be consistent throughout the content.
-   * Subtitles length, while displayed, should:
-   * not use 3 or more lines.
-   * have a maximum length of 68% of the width of a 16:9 video and 90% of the width of a 4:3 video. The number of characters this represent depends on the font type and size used to display subtitles.
+   * Subtitles must not be displayed on more than 2 lines
+   * Subtitles length, while displayed, should have a maximum length of 68% of the width of a 16:9 video and 90% of the width of a 4:3 video. The number of characters this represent depends on the font type and size used to display subtitles.
    * Subtitles do not generally include actions, sounds/music, and other non-verbal cues.
+   * When a sentence must be divided into two or more captions, it should break at a logical phrase rather than at a random point
 
 ### Transcripts
  * All audio-only, video-only and audio-visual media content must have a transcript. 
