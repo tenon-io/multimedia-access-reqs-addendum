@@ -4,7 +4,7 @@
 * "Media" means any content which features video-only, audio-only, or video and audio together.
 * "Vendor" means the supplier with whom we have made a purchase for deliverables which include media.
 * "Customer" means [COMPANY NAME] including any and all sub-organizations [COMPANY NAME]
-* "Deliverable" means the...???
+* "Deliverable" means media and associated transcriptions, captions, and audio descrptions.
 * "Captions" means text displayed on screen when video or audio-video media is playing, intended to provide interpretive or additional information.
 * "Subtitles" means captions used to translate the content in another language. Subtitles are not generally direct translation of captions as they do not include actions, sounds, etc.
 * "Transcript" means a written version of the audio portion of Media.
@@ -84,6 +84,10 @@ This addendum applies to all media purchased by Customer and delivered by Vendor
  * Audio descriptions should not fill all gaps in the audio track. Music and silences can tell the story as well.
  * Audio descriptions must read opening and end credits, if present.
  
+ ## Links with further information about captions and audio description
+ * [Media Access Group](http://main.wgbh.org/wgbh/pages/mag/services/captioning/faq/sugg-styles-conv-faq.html)
+ * American Council of the Blind [Audio Description Project](http://www.acb.org/adp/guidelines.html)
+ * [BBC Subtitle Guidelines](http://bbc.github.io/subtitle-guidelines/) (Note the word used is 'subtitle', but that is equivalent to 'caption'.
 
  
 
