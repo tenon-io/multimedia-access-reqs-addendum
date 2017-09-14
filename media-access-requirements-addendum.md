@@ -14,6 +14,7 @@
  This addendum describes the requirements for acceptance of any deliverables which feature media. Deliverables which do not meet these requirements will not be accepted and invoices submitted for those deliverables will not be paid until these requirements have been met in their entirety and acknowledged as accepted by the customer. Vendor understands that this addendum is part of the overall contract of services purchased and that any changes required to deliverables so that they conform to these requirements will not incur any extra charges beyond that which is defined in [Reference to purchase price elsewhere in contract]
  
 This addendum is written in conformance with RFC 2119, which defines keywords used to indicate conformance. This addendum follows the "Must/Shall", "Must Not/ Shall Not", "Should/ May", and "Should Not" convention of defining requirements at the following levels:
+
 * "Must" and "Shall" indicate requirements that deliverables are required to meet in order to be accepted by the customer.
 * "Must not" and "Shall not" indicate characteristics that will be deemed to have violated these requirements and the deliverable will be rejected by Customer
 * "Should" and "May" indicate optional characteristics and hints for a higher quality deliverable. These characteristics are not alternatives to Customer's requirements but simply suggestions.
@@ -94,7 +95,8 @@ Audio description, also referred to as a video description, described video, or 
  * Audio descriptions should not fill all gaps in the audio track. Music and silences can tell the story as well.
  * Audio descriptions must read opening and end credits, if present.
  
- ## Links with further information about captions and audio description
+## Links with further information about captions and audio description
+ 
  The following resources can be used to help understand how to create captions and audio descriptions. These resources are informative in nature. In any instance where the guidance in the following resources disagree with anything above, our requirements prevail.
  
  * [Media Access Group](http://main.wgbh.org/wgbh/pages/mag/services/captioning/faq/sugg-styles-conv-faq.html)
