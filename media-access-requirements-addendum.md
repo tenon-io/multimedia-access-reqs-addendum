@@ -4,7 +4,7 @@
 * "Media" means any content which features video-only, audio-only, or video and audio together.
 * "Vendor" means the supplier with whom we have made a purchase for deliverables which include media.
 * "Customer" means [COMPANY NAME] including any and all sub-organizations [COMPANY NAME]
-* "Deliverable" means any media produced as a result of a project that is intended to be delivered to the customer .
+* "Deliverable" means any media produced as a result of a project that is intended to be delivered to the customer.
 * "Captions" means text displayed on screen when video or audio-video media is playing, intended to provide interpretive or additional information.
 * "Subtitles" means captions used to translate the content in another language. Subtitles are not generally direct translation of captions as they do not include actions, sounds, etc.
 * "Transcript" means a written version of the audio portion of Media.
@@ -13,7 +13,7 @@
 ## Introduction
  This addendum describes the requirements for acceptance of any deliverables which feature media. Deliverables which do not meet these requirements will not be accepted and invoices submitted for those deliverables will not be paid until these requirements have been met in their entirety and acknowledged as accepted by the customer. Vendor understands that this addendum is part of the overall contract of services purchased and that any changes required to deliverables so that they conform to these requirements will not incur any extra charges beyond that which is defined in [Reference to purchase price elsewhere in contract]
  
-This addendum is written in conformance with RFC 2119, which defines keywords used to indicate conformance. This addendum follows the "Must/Shall", "Must Not/ Shall Not", "Should/ May", and "Should Not" convention of defining requirements at the following levels:
+This addendum is written in conformance with RFC 2119, which defines keywords used to indicate conformance. This addendum follows the "Must/Shall", "Must Not/Shall Not", "Should/May", and "Should Not" convention of defining requirements at the following levels:
 
 * "Must" and "Shall" indicate requirements that deliverables are required to meet in order to be accepted by the customer.
 * "Must not" and "Shall not" indicate characteristics that will be deemed to have violated these requirements and the deliverable will be rejected by Customer
@@ -91,7 +91,7 @@ Audio description, also referred to as a video description, described video, or 
  * Audio descriptions should be neutral and avoid interpretative descriptions.
  * Audio descriptions should describe emotional states without interpreting them. It is better to describe facial gesture rather than guess at emotion.
  * Audio descriptions should use complete sentences whenever possible.
- * Audio descriptions should be delivered during pauses in dialog
+ * Audio descriptions should be delivered during pauses in dialog.
  * Audio descriptions should not fill all gaps in the audio track. Music and silences can tell the story as well.
  * Audio descriptions must read opening and end credits, if present.
  
